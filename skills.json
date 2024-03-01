@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Software Engineering",
+        "icon": "https://img.icons8.com/color/48/000000/source-code.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/ios/48/000000/git.png"
+    },
+    {
+        "name": "CI/CD",
+        "icon": "https://img.icons8.com/color/48/000000/circleci.png"
+    },
+    {
+        "name": "Version Control",
+        "icon": "https://img.icons8.com/ios/48/000000/version-control.png"
+    },
+    {
+        "name": "Agile Methodology",
+        "icon": "https://img.icons8.com/color/48/000000/scrum.png"
+    },
+    {
+        "name": "Problem Solving",
+        "icon": "https://img.icons8.com/color/48/000000/idea.png"
+    },
+    {
+        "name": "Algorithm Design",
+        "icon": "https://img.icons8.com/color/48/000000/algorithm.png"
+    },
+    {
+        "name": "Data Structures",
+        "icon": "https://img.icons8.com/external-becris-lineal-color-becris/48/000000/external-data-structures-lineal-color-becris.png"
+    },
+    {
+        "name": "System Design",
+        "icon": "https://img.icons8.com/color/48/000000/server.png"
+    },
+    {
+        "name": "Software Architecture",
+        "icon": "https://img.icons8.com/color/48/000000/software-architecture.png"
+    },
+    {
+        "name": "Debugging",
+        "icon": "https://img.icons8.com/color/48/000000/debug.png"
+    },
+    {
+        "name": "Testing",
+        "icon": "https://img.icons8.com/color/48/000000/test-tube.png"
+    },
+    {
+        "name": "Code Review",
+        "icon": "https://img.icons8.com/color/48/000000/code-review.png"
+    },
+    {
+        "name": "DevOps",
+        "icon": "https://img.icons8.com/color/48/000000/devops.png"
+    },
+    {
+        "name": "Continuous Integration",
+        "icon": "https://img.icons8.com/color/48/000000/continuous-integration.png"
+    },
+    {
+        "name": "API Design",
+        "icon": "https://img.icons8.com/ios/48/000000/api-settings.png"
+    },
+    {
+        "name": "Web Development",
+        "icon": "https://img.icons8.com/color/48/000000/web.png"
+    },
+    {
+        "name": "Mobile App Development",
+        "icon": "https://img.icons8.com/ios/48/000000/mobile-app.png"
+    },
+    {
+        "name": "Database Design",
+        "icon": "https://img.icons8.com/ios/48/000000/database-restore.png"
+    },
+    {
+        "name": "Security",
+        "icon": "https://img.icons8.com/color/48/000000/security-camera.png"
+    },
+    {
+        "name": "Scalability",
+        "icon": "https://img.icons8.com/ios/48/000000/scalability.png"
+    },
+    {
+        "name": "Networking",
+        "icon": "https://img.icons8.com/color/48/000000/network.png"
+    },
+    {
+        "name": "Data Science",
+        "icon": "https://img.icons8.com/color/48/000000/data-science.png"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/color/48/000000/machine-learning.png"
+    },
+    {
+        "name": "Data Analysis",
+        "icon": "https://img.icons8.com/color/48/000000/data-analysis.png"
+    },
+    {
+        "name": "Big Data",
+        "icon": "https://img.icons8.com/color/48/000000/big-data.png"
+    },
+    {
+        "name": "Statistics",
+        "icon": "https://img.icons8.com/color/48/000000/statistics.png"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://img.icons8.com/color/48/000000/deep-learning.png"
+    },
+    {
+        "name": "Natural Language Processing",
+        "icon": "https://img.icons8.com/color/48/000000/natural-language-processing.png"
+    },
+    {
+        "name": "Database Management",
+        "icon": "https://img.icons8.com/color/48/000000/database.png"
+    }
+]
