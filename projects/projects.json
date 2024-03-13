@@ -3,17 +3,17 @@
     "name": "Coffee Chatbot",
     "desc": "Developed a Coffee Chatbot using Python and NLP to interpret user-input ingredients and generate customized coffee recipes. Integrated external APIs for recipe data and employed Flask for seamless interaction. Demonstrated proficiency in conversational AI and user-centric design.",
     "image": "assets/images/projects/CoffeeBot.jpeg",
-    "category": "",
     "links": {
+      "view": "https://github.com/saslam3/CoffeeChatbot",
       "code": "https://github.com/saslam3/CoffeeChatbot"
     }
   },
   {
     "name": "Portfolio",
     "desc": "My Portfolio",
-    "image": "sppuprepandroid",
-    "category": "android",
+    "image": "assets/images/lapy.jpg",
     "links": {
+      "view": "saimahaslam.com",
       "code": "https://github.com/saslam3/saslam3.github.io"
     }
   }
